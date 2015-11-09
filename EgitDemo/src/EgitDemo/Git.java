@@ -6,6 +6,7 @@ public class Git {
 		
 		
 		System.out.println("Lets do something using Git ok great");
+		System.out.println("that great i just love it ");
 	}
 
 }
