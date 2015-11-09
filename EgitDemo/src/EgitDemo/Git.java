@@ -5,7 +5,7 @@ public class Git {
 	{
 		
 		
-		System.out.println("Lets do something using Git");
+		System.out.println("Lets do something using Git ok great");
 	}
 
 }
